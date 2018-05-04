@@ -1,9 +1,17 @@
 # Mandracchia Law
 
-### Website References
+### A Attorney Website by Jared Cooper, Randall Whitlock, and Kevin Jolley.
+
+#### Website References:
 
 http://mmattorneys.com/
 
 https://www.defendyourcase.com/
 
-### A Attorney Website by Jared Cooper, Randall Whitlock, and Kevin Jolley.
+#### Dependencies:
+
+`Reactstrap`
+`React-Dom`
+`Bootstrap`
+`Axios`
+`React-Router`
