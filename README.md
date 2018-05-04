@@ -10,8 +10,14 @@ https://www.defendyourcase.com/
 
 #### Dependencies:
 
-`Reactstrap`
+[`Reactstrap`](https://reactstrap.github.io/)
+
+[`Antd`](https://ant.design/docs/react/introduce)
+
 `React-Dom`
+
 `Bootstrap`
+
 `Axios`
+
 `React-Router`
