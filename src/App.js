@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 
+// Imports
+import HomePage from './components/Routes/HomePage/HomePage';
+
 class App extends Component {
   render() {
     return (
-      <div className="center">
-        <p>Henlo (OvO")</p>
+      <div>
+        <HomePage />
       </div>
     );
   }
