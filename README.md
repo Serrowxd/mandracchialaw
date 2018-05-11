@@ -41,3 +41,11 @@ https://www.defendyourcase.com/
 `/AoP` = AoP || Areas of Practice Page
 
 `/FAQ` = FAQ || Frequently Asked Questions Page
+
+---
+
+### Colors:
+
+`Background`: #bec7fd **[TEMP]** // index.css + app.css
+
+`navButton`: #8d2525 **[TEMP]** // NavBar.css
