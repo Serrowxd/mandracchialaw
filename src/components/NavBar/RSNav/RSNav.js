@@ -17,6 +17,22 @@ import {
 import './RSNav.css';
 
 class RSNav extends Component {
+  constructor(props) {
+    super(props);
+
+    this.toggle = this.toggle.bind(this);
+    this.state = {
+      isOpen: false,
+    };
+  }
+  toggle() {
+    this.setState({
+      isOpen: !this.state.isOpen,
+    });
+  }
+
+  // Constructor and setState are for the dropdown feature, not yet implemented.
+
   render() {
     return (
       <div>
