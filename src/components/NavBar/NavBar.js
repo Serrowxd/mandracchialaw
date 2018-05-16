@@ -9,7 +9,7 @@ class NavBar extends Component {
     return (
       <Container className="navContainer">
         <Row>
-          <Col>
+          <Col className="navTitle">
             <h2>Mandracchia Law</h2>
           </Col>
           <Link to={'/'}>

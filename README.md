@@ -2,6 +2,12 @@
 
 ### A Attorney Website by Jared Cooper, Randall Whitlock, and Kevin Jolley.
 
+### Build Notes
+
+`RSNav` = [EXPORT = RSNav] Reactstrap Default Navigation.
+
+`NavBar` = [EXPORT = NavBar] The non-reactstrap version.
+
 ---
 
 #### Website References:
@@ -46,6 +52,10 @@ https://www.defendyourcase.com/
 
 ### Colors:
 
-`Background`: #bec7fd **[TEMP]** // index.css + app.css
+#### NavBar
 
-`navButton`: #8d2525 **[TEMP]** // NavBar.css
+`navButton`: #8d2525 **[TEMP]** // NavBar.css **_TEMP DISABLED_**
+
+#### Backgrounds
+
+`Background`: #bec7fd **[TEMP]** // index.css + app.css **_TEMP DISABLED_**

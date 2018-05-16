@@ -1,6 +1,7 @@
 .navContainer {
-  display: block;
+  display: inline-block;
   margin: 1rem;
+  width: 100%;
 }
 
 .buttons {

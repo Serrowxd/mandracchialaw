@@ -3,13 +3,18 @@ import './App.css';
 
 // Imports
 import HomePage from './components/Routes/HomePage/HomePage';
-import NavBar from './components/NavBar/NavBar';
+import RSNav from './components/NavBar/RSNav/RSNav';
+
+// import NavBar from './components/NavBar/NavBar';
+
+// Testing RSNav in this current build, NavBar is being left in until it is not needed.
 
 class App extends Component {
   render() {
     return (
       <div className="appBack">
-        <NavBar />
+        {/* <NavBar /> */}
+        <RSNav />
         <HomePage />
       </div>
     );
